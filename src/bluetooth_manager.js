@@ -6,7 +6,7 @@
    * @class BluetoothManager
    * @requires  {@link GattServerManager}
    * @requires  BluetoothLoader
-   * @requires  evt
+   * @requires  {@link https://github.com/gaia-components/evt|evt}
    * @fires BluetoothManager#discovering-state-changed
    * @fires BluetoothManager#start-discovering
    * @fires BluetoothManager#stop-discovering
